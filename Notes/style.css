@@ -21,8 +21,9 @@ html, body {
     scroll-snap-align: start;
 }
 
-.padding, script {
+script {
     padding: 1em;
+    border-bottom: 2px solid gray
 }
 
 th, td {
