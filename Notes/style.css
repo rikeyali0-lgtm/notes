@@ -22,7 +22,7 @@ html, body {
 }
 
 script {
-    padding: 1em;
+    margin: 1em;
     border-bottom: 2px solid gray
 }
 
