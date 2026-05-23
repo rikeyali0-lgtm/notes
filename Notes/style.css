@@ -21,7 +21,7 @@ html, body {
     scroll-snap-align: start;
 }
 
-.padding
+.padding, script {
     padding: 1em;
 }
 
